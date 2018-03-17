@@ -15,3 +15,7 @@ COPY . .
 
 # Start app
 CMD [ "npm", "start" ]
+
+# Expose ports.
+#   - 8080: HTTP
+EXPOSE 8080
