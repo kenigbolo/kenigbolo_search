@@ -2,7 +2,7 @@ const Koa = require('koa')
 const app = new Koa()
 
 app.use(async (ctx, next) => {
-  ctx.body = 'Hello World From the Backend Container'
+  ctx.body = 'Node server running'
 })
 
 const port = process.env.PORT || 3000
