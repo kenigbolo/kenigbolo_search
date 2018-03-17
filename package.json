@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/triestpa/guttenberg-search.git"
+    "url": "git+https://github.com/kenigbolo/kenigbolo-search.git"
   },
-  "author": "patrick.triest@gmail.com",
+  "author": "expensivestephen@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/triestpa/guttenberg-search/issues"
+    "url": "https://github.com/kenigbolo/kenigbolo-search/issues"
   },
-  "homepage": "https://github.com/triestpa/guttenberg-search#readme",
+  "homepage": "https://github.com/kenigbolo/kenigbolo-search#readme",
   "dependencies": {
     "elasticsearch": "13.3.1",
     "joi": "13.0.1",
