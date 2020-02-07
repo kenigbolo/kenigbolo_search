@@ -20,6 +20,6 @@
     "joi": "14.3.1",
     "koa": "2.11.0",
     "koa-joi-validate": "0.5.1",
-    "koa-router": "8.0.6"
+    "koa-router": "8.0.7"
   }
 }
