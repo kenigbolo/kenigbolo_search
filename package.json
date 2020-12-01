@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/kenigbolo/kenigbolo-search#readme",
   "dependencies": {
-    "elasticsearch": "16.7.1",
+    "elasticsearch": "16.7.2",
     "joi": "17.2.0",
     "koa": "2.13.0",
     "koa-joi-validate": "0.5.1",
